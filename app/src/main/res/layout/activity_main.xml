@@ -14,7 +14,7 @@
         android:fontFamily="cursive"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
-        android:textSize="34sp"
+        android:textSize="32sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
